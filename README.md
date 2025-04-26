@@ -1,7 +1,10 @@
 📈 Stock Market Prediction Model
-This repository contains a Stock Market Prediction model built using Machine Learning techniques. The project involves data collection, preprocessing, model training, evaluation, and prediction for stock prices based on historical data.
+This repository contains a Stock Market Prediction model built using Machine Learning techniques. 
+The project involves data collection, preprocessing, model training, evaluation,
+and prediction for stock prices based on historical data.
 
 🚀 Features
+
 📊 Historical Stock Data Collection
 
 🧹 Data Preprocessing & Feature Engineering
@@ -15,6 +18,7 @@ This repository contains a Stock Market Prediction model built using Machine Lea
 📉 Visualization of Results
 
 🛠️ Technologies Used
+
 Python 🐍
 
 Jupyter Notebook 📓
