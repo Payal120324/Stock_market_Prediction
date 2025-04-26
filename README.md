@@ -31,6 +31,12 @@ numpy
 
 matplotlib
 
+seaborn
+
+scikit-learn
+
+yfinance (for stock data)
+
 ✨ Improvements for Future
 Implement deep learning models (like LSTM/GRU for time series)
 
@@ -39,9 +45,3 @@ Include technical indicators (RSI, MACD) as additional features
 Hyperparameter tuning and model optimization
 
 Deployment of model as a web app using Flask/Django
-
-seaborn
-
-scikit-learn
-
-yfinance (for stock data)
